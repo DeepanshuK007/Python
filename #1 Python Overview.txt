@@ -1,0 +1,30 @@
+Python is a dynamically typed, General Purpose Programming Language that supports an object-oriented programming approach as well as a functional programming approach.
+
+Python is also an interpreted(run time execution) and high-level programming language.
+
+It was created by Guido Van Rossum in 1989.
+
+It is Interpreted and platform-independent which makes debugging very easy.
+
+Python provides very big library support. Some of the popular libraries include NumPy, Tensorflow, Selenium, OpenCV, etc.
+
+It is possible to integrate other programming languages within python.
+
+---------------------------------------What is Python used for:-------------------------------------------
+Python is used in Data Visualization to create plots and graphical representations.
+
+It can be used to handle databases.
+
+Python helps in Data Analytics to analyze and understand raw data for insights and trends.
+
+-------------------------------------Variable---------------------------------------------------
+Variablename can only start with a _ or a letter
+
+NameOfCity = "Mumbai"       #Pascal case
+nameOfCity = "Berlin"       #Camel case
+name_of_city = "Moscow"     #snake case
+
+Local vars are defined inside the func and Global vars are defined insid ethe func.
+
+Line by line execution takes place in python.
+

@@ -1,0 +1,10 @@
+Modules are used to borrow others code. 
+There are two types of modules:
+1). Built in Modules.   2). External Modules.
+
+1. Built in modules come along with python installation and external modules are the one which are installed using pip command.
+
+External modules are written by others and saves a lot of time in coding and also a lot of memory.
+pip is a package manager which if given command to will downlord the required external lib in our system
+
+Using the terminal also u can write code using a REPl (Read Evaluate Print)
